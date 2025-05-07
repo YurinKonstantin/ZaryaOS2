@@ -1,0 +1,1 @@
+fasm KERNEL.ASM KERNEL.MNT
